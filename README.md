@@ -49,7 +49,7 @@ make valgrind
 make clean
 ```
 
-##Implementation Notes:
+## Implementation Notes:
 - The matrix is implemented using a 2D array of doubles.
 - Memory is managed carefully to avoid leaks.
 - All operators check for valid input sizes.
